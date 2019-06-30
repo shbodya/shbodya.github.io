@@ -1,41 +1,76 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>https://shbodya.github.io/2019/my-first-post/</loc>
-    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    <url>
+      <loc>https://shbodya.github.io/2019/my-first-post/</loc>
+      
+      <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://shbodya.github.io/about/</loc>
-    <lastmod>2019-06-30T17:25:00+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
+    <url>
+      <loc>https://shbodya.github.io/about/</loc>
+      
+      <lastmod>2019-06-30T17:25:00+03:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://shbodya.github.io/</loc>
-    <lastmod>2019-06-30T17:25:00+03:00</lastmod>
-    <priority>0</priority>
-  </url>
+    <url>
+      <loc>https://shbodya.github.io/</loc>
+      
+      <lastmod>2019-06-30T17:25:00+03:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://shbodya.github.io/posts/</loc>
-    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    <url>
+      <loc>https://shbodya.github.io/posts/</loc>
+      
+      <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://shbodya.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
+    <url>
+      <loc>https://shbodya.github.io/categories/</loc>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
   
-  <url>
-    <loc>https://shbodya.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
+    <url>
+      <loc>https://shbodya.github.io/tags/</loc>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
   
 </urlset>

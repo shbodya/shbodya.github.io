@@ -1,15 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog</title>
+    <title>Blog on Blog</title>
     <link>https://shbodya.github.io/</link>
-    <description>Recent content on Blog</description>
+    <description>Recent content in Blog on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 30 Jun 2019 17:25:00 +0300</lastBuildDate>
-    
-	<atom:link href="https://shbodya.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://shbodya.github.io/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>First post</title>
@@ -17,7 +14,12 @@
       <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://shbodya.github.io/2019/my-first-post/</guid>
-      <description>Title First post</description>
+      <description>
+
+&lt;h1 id=&#34;title&#34;&gt;Title&lt;/h1&gt;
+
+&lt;p&gt;First post&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -26,8 +28,10 @@
       <pubDate>Sun, 30 Jun 2019 17:25:00 +0300</pubDate>
       
       <guid>https://shbodya.github.io/about/</guid>
-      <description>GitHub: https://github.com/shbodya
-icq: 282548970</description>
+      <description>&lt;p&gt;GitHub: &lt;a href=&#34;https://github.com/shbodya&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;https://github.com/shbodya&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;icq: 282548970&lt;/p&gt;
+</description>
     </item>
     
   </channel>
